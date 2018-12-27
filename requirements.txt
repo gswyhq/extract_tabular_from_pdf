@@ -1,0 +1,11 @@
+# pipreqs /home/gswyhq/extract_tabular_from_pdf
+# sudo pip3 install -r requirements.txt -i http://pypi.douban.com/simple --trusted-host=pypi.douban.com
+click==7.0
+SQLAlchemy==0.7.10
+six==1.12.0
+configparser==3.5.0
+camelot-py==0.6.0
+opencv-python==3.4.4.19
+opencv-contrib-python==3.4.4.19
+Flask==1.0.2
+celery==4.2.1
